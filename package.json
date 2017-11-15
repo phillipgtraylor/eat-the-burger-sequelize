@@ -1,19 +1,22 @@
 {
-  "name": "burger",
+  "name": "eat-the-burger-sequelize",
   "version": "1.0.0",
+  "description": "Burger-Sequalize",
   "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
+    "url": "git+https://github.com/phillipgtraylor/eat-the-burger-sequelize.git"
   },
-  "dependencies": {
-    "body-parser": "^1.16.0",
-    "express": "^4.14.0",
-    "express-handlebars": "^3.0.0",
-    "method-override": "^2.3.7",
-    "mysql": "^2.12.0",
-    "sequelize": "^3.30.1"
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipgtraylor/eat-the-burger-sequelize/issues"
   },
-  "jshintConfig": {
-    "esversion": "6"
-  }
+  "homepage": "https://github.com/phillipgtraylor/eat-the-burger-sequelize#readme"
 }
