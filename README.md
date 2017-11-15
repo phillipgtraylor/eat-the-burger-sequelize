@@ -1,1 +1,1 @@
-# eat-the-burger-sequelize
+Burger-Sequalize
